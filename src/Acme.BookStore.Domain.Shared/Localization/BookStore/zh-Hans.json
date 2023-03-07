@@ -1,0 +1,13 @@
+{
+  "culture": "zh-Hans",
+  "texts": {
+    "Menu:Home": "首页",
+    "Welcome": "欢迎",
+    "LongWelcomeMessage": "欢迎来到该应用程序. 这是一个基于ABP框架的启动项目. 有关更多信息, 请访问 abp.io."
+  },
+  "Permission:BookStore": "图书存储",
+  "Permission:Books": "图书权限",
+  "Permission:Books.Create": "图书创建",
+  "Permission:Books.Edit": "图书编辑",
+  "Permission:Books.Delete": "图书删除"
+}
